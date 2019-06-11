@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Ajani Adversary Of Tyrants",
+      "image": "./assets/images/ajaniAdversaryOfTyrants.PNG"
+    },
+    {
+      "id": 2,
+      "name": "Ajani Steadfast",
+      "image": "./assets/images/ajaniSteadfast.PNG"
+    },
+    {
+      "id": 3,
+      "name": "Chandra Ablaze",
+      "image": "./assets/images/chandraAblaze.PNG"
+    },
+    {
+      "id": 4,
+      "name": "Chandra Flamecaller",
+      "image": "./assets/images/chandraFlamecaller.PNG"
+    },
+    {
+      "id": 5,
+      "name": "Daretti Ingenious Iconoclast",
+      "image": "./assets/images/darettiIngeniousIconoclast.PNG"
+    },
+    {
+      "id": 6,
+      "name": "Elspeth Knight Errant",
+      "image": "./assets/images/elspethKnightErrant.PNG"
+    },
+    {
+      "id": 7,
+      "name": "Gideon Blackblade",
+      "image": "./assets/images/gideonBlackblade.PNG"
+    },
+    {
+      "id": 8,
+      "name": "Ob Nixilis The Hate Twisted",
+      "image": "./assets/images/obNixilisTheHateTwisted.PNG"
+    },
+    {
+      "id": 9,
+      "name": "Sarkhan The Dragonsspeaker",
+      "image": "./assets/images/sarkhanTheDragonsspeaker.PNG"
+    },
+    {
+      "id": 10,
+      "name": "Sarkhan The Mad",
+      "image": "./assets/images/sarkhanTheMad.PNG"
+    },
+    {
+      "id": 11,
+      "name": "Sarkhan The Masterless",
+      "image": "./assets/images/sarkhanTheMasterless.PNG"
+    },
+    {
+      "id": 12,
+      "name": "Teyo The Shieldmage",
+      "image": "./assets/images/teyoTheShieldmage.PNG"
+    }
+  ]
+  
